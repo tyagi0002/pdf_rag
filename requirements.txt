@@ -1,0 +1,7 @@
+pypdf 
+sentence_transformers 
+Pinecone
+chromadb
+pymilvus 
+google-generativeai
+dotenv
